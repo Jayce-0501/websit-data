@@ -1,0 +1,20 @@
+Super Sport
+
+We at Super Sport are committed to protecting your privacy while using our exercise timing utility class project. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you interact with Super Sport.
+
+Information Collection:
+Usage Data: We may collect usage data related to the operation of the timer functionality within the Super Sport application.
+Personal Information: Super Sport does not collect any personal information such as names, addresses, or contact details.
+Data Usage:
+Purpose: The data collected is solely used for providing accurate timing functionality within the Super Sport application.
+Storage: All data is stored locally on the user's device and is not shared with any third parties.
+Data Security:
+Encryption: Any data collected by Super Sport is securely encrypted to protect user privacy.
+Access Control: Access to the collected data is restricted to authorized personnel only.
+User Rights:
+Data Access: Users have the right to access and review any data collected by Super Sport.
+Data Deletion: Users can request the deletion of any data collected by contacting us at [contact email/phone number].
+Updates to Privacy Policy:
+Super Sport reserves the right to make changes to this Privacy Policy. Users will be notified of any significant changes to how their data is handled.
+
+By using Super Sport, you agree to the terms outlined in this Privacy Policy. If you have any questions or concerns regarding your privacy while using Super Sport
